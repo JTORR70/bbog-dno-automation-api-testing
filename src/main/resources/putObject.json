@@ -1,0 +1,10 @@
+{
+  "name": "Apple MacBook Pro 20",
+  "data": {
+    "year": 2025,
+    "price": 56555.99,
+    "CPU model": "AMD Ryzen",
+    "Hard disk size": "7 TB",
+    "color": "GREEN"
+  }
+}
